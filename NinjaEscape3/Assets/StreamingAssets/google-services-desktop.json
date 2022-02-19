@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "1031592208867",
+    "project_id": "ninjaescape-23e8f",
+    "storage_bucket": "ninjaescape-23e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031592208867:ios:5d0c34eb9cd7bf28d818d6",
+        "android_client_info": {
+          "package_name": "com.NANP.NinjaEscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031592208867-fvs142nvrqfau8cgts9afiio9n6m3nop.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-vaR0MDDjLLvbIQG49vNC8Zd1PnMz_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
